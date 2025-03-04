@@ -9,7 +9,7 @@ Please refer our [NeurIPS benchmark paper](https://github.com) for the preparati
 
 ## MOE Implementation 
 
-The implementation of our proposed M<sub>3</sub>OE module is available at the [link](https://github.com/XiaochenWang-PSU/FedKIM/blob/master/FedKIM/src/model/Octavius/moe/layer.py). 
+The implementation of our proposed M<sup>3</sup>OE module is available at the [link](https://github.com/XiaochenWang-PSU/FedKIM/blob/master/FedKIM/src/model/Octavius/moe/layer.py). 
 
 
 ## Acknowledgement 
