@@ -2,14 +2,18 @@
 
 This is the repo of resource codes for FEDKIM. The implementation is heavily based on codes provided by the authors of [Octavius](https://arxiv.org/abs/2311.02684). 
 
-## Data Preparation
+## Project Overview 
 
-Please refer our [NeurIPS benchmark paper](https://github.com) for the preparation of data. More details can also be found at corresponding [repo](https://github.com/psudslab/FEDMEKI).
+Please refer our [NeurIPS benchmark paper](https://github.com) for the preparation of data, runnable script as well as other useful information regarding the project. More details can also be found at corresponding [repo](https://github.com/psudslab/FEDMEKI).
 
 
-## MOE Implementation 
+## Local Training
+Federated training performed locally can be found at this [link](https://github.com/XiaochenWang-PSU/FedKIM/blob/master/FedKIM/src/local_FL.py).
 
-The implementation of our proposed M<sup>3</sup>OE module is available at the [link](https://github.com/XiaochenWang-PSU/FedKIM/blob/master/FedKIM/src/model/Octavius/moe/layer.py). 
+
+## M<sup>3</sup>OE Implementation 
+
+The key module of FedKIM is the novel M<sup>3</sup>OE module. The implementation of our proposed M<sup>3</sup>OE module is available at the [script](https://github.com/XiaochenWang-PSU/FedKIM/blob/master/FedKIM/src/model/Octavius/moe/layer.py). This module is called at [here](https://github.com/XiaochenWang-PSU/FedKIM/blob/master/FedKIM/src/model/Octavius/octavius.py), serving as part of the federated multimodal foundation model.
 
 
 ## Acknowledgement 
