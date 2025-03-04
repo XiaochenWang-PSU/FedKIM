@@ -1,6 +1,6 @@
 # FEDKIM
 
-This is the repo of resource codes for FEDKIM. The implementation is heavily based on codes provided by the authors of Octavius(https://arxiv.org/abs/2311.02684). 
+This is the repo of resource codes for FEDKIM. The implementation is heavily based on codes provided by the authors of [Octavius](https://arxiv.org/abs/2311.02684). 
 
 ## Data Preparation
 
