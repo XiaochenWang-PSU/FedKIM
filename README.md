@@ -18,7 +18,7 @@ The key module of FedKIM is the novel M<sup>3</sup>OE module. The implementation
 
 ## Acknowledgement 
 
-If you find any sources provided in this repo or our paper are useful, please cite our paper using:
+If you find any sources provided in this repo or our paper are useful, please cite our papers using:
 
 ```bibtex
 @inproceedings{wangfedmeki,
